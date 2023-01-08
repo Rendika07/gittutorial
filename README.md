@@ -143,6 +143,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Morteza noroozi :heart:](https://github.com/morteza-n)
 - [Mohsen Shafiey Kasrineh 😎](https://github.com/mshafiey)
 - [Tarnama](https://github.com/tarnamaco)
+- [Rendika](https://github.com/Rendika07)
 - [araxabd :umbrella:](https://github.com/araxabd)
 - [:sunglasses: Ehsan Eftekhari :sunglasses:](https://github.com/ehsaneftekhari)
 - [soroosh lotfi](https://github.com/slotfi909)(you're the best mr.jadi)
